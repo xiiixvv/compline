@@ -36,24 +36,21 @@ Compline is a homage to Nord, Everforest, and the monotone colorscheme - reducin
 | teal      | #b4c4bc | 180 196 188 | 150° 12% 74% | ![teal](https://complinetheme.com/images/colors/teal.png)                     |
 | dark-cyan | #98a4ac | 152 164 172 | 204° 11% 64% | ![dark-cyan](https://complinetheme.com/images/colors/dark-cyan.png)           |
 
-
 ## Finished Themes:
-### Kitty
-### Emacs
-### Heliboard (Android)
-### btop
-### SwayNC
-### Stylix in nixOS
-#### GTK/QT
-#### Thunar
-
-### Firefox
-### Waybar
-### bat
-### Hyprland/lock
-### MPV
-### Zathura
-### Thunderbird
+- [Doom Emacs](https://github.com/jblais493/compline/tree/main/doom%20emacs)
+- [Kitty](https://github.com/jblais493/compline/tree/main/kitty) 
+- [Heliboard (Android)]()
+- [btop](https://github.com/jblais493/compline/tree/main/btop)
+- [SwayNC](https://github.com/jblais493/compline/tree/main/swaync) 
+- Stylix in nixOS
+  - GTK/QT
+ - Thunar
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/compline/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) 
+- [Waybar](https://github.com/jblais493/compline/tree/main/waybar) 
+- [bat](https://github.com/jblais493/compline/tree/main/bat) 
+- [MPV](https://github.com/jblais493/compline/tree/main/mpv) 
+- [Zathura](https://github.com/jblais493/compline/tree/main/zathura) 
+- [Thunderbird](https://github.com/jblais493/compline/tree/main/thunderbird) 
 
 ## Roadmap to finish 
 - (Neo)vim

@@ -10,7 +10,7 @@ These colorschemes embody this tradition in code. Monastic minimalism: colors as
 ![Lauds palate](https://revere.b-cdn.net/compline/2025-11-04-191227_grim.png)
 
 ## The Motivation
-For years, [https://www.nordtheme.com/](Nord) was the default across my system.
+For years, [Nord](https://www.nordtheme.com) was the default across my system.
 Reliable, minimalst, clean; but the saturation irritated me. 
 
 Thus this is a homage to Nord, Everforest, and various monotone colorschemes - building from that which I believe those themes got right and reducing saturation and working from one tone, stripping everything away that is not essential.
@@ -88,4 +88,4 @@ Thus this is a homage to Nord, Everforest, and various monotone colorschemes - b
     - Termux (nix-on-droid)
 
 ## Special thanks:
-    - [https://github.com/Matthew-K310](Matthew-K310) - for porting compline/lauds to nvim
+    [Matthew-K310](https://github.com/Matthew-K310) - for porting compline/lauds to nvim

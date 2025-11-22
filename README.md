@@ -42,29 +42,29 @@ Thus this is a homage to Nord, Everforest, and various monotone colorschemes - b
 | dark-cyan | #98a4ac | 152 164 172 | 204° 11% 64% | ![dark-cyan](https://revere.b-cdn.net/compline/dark-cyan.png)   |
 
 ### Lauds:
-| Palette   | Hex     | RGB         | HSL          | Colors                                                               |
-|-----------|---------|-------------|--------------|----------------------------------------------------------------------|
-| bg        | #f0efeb | 240 239 235 | 48° 14% 93%  | ![Background](https://revere.b-cdn.net/lauds/background.png)         |
-| bg-alt    | #e0dcd4 | 224 220 212 | 40° 16% 85%  | ![Background-alt](https://revere.b-cdn.net/lauds/background-alt.png) |
-| base0     | #f5f4f2 | 245 244 242 | 40° 13% 95%  | ![base0](https://revere.b-cdn.net/lauds/base0.png)                   |
-| base1     | #efeeed | 239 238 237 | 30° 5% 93%   | ![base1](https://revere.b-cdn.net/lauds/base1.png)                   |
-| base2     | #e5e3e0 | 229 227 224 | 36° 8% 89%   | ![base2](https://revere.b-cdn.net/lauds/base2.png)                   |
-| base3     | #d8d6d3 | 216 214 211 | 36° 6% 84%   | ![base3](https://revere.b-cdn.net/lauds/base3.png)                   |
-| base4     | #b8b5b0 | 184 181 176 | 37° 5% 71%   | ![base4](https://revere.b-cdn.net/lauds/base4.png)                   |
-| base5     | #9a9791 | 154 151 145 | 40° 4% 59%   | ![base5](https://revere.b-cdn.net/lauds/base5.png)                   |
-| base6     | #7d7a75 | 125 122 117 | 37° 3% 47%   | ![base6](https://revere.b-cdn.net/lauds/base6.png)                   |
-| base7     | #5f5c58 | 95 92 88    | 34° 4% 36%   | ![base7](https://revere.b-cdn.net/lauds/base7.png)                   |
-| base8     | #2d2a27 | 45 42 39    | 30° 7% 16%   | ![base8](https://revere.b-cdn.net/lauds/base8.png)                   |
-| fg        | #1a1d21 | 26 29 33    | 214° 12% 12% | ![fg](https://revere.b-cdn.net/lauds/fg.png)                         |
-| fg-alt    | #4a4d51 | 74 77 81    | 214° 5% 30%  | ![fg-alt](https://revere.b-cdn.net/lauds/fg-alt.png)                 |
-| red       | #8b6666 | 139 102 102 | 0° 15% 47%   | ![red](https://revere.b-cdn.net/lauds/red.png)                       |
-| orange    | #7a6d5a | 122 109 90  | 36° 15% 42%  | ![orange](https://revere.b-cdn.net/lauds/orange.png)                 |
-| green     | #5a6b5a | 90 107 90   | 120° 9% 39%  | ![green](https://revere.b-cdn.net/lauds/green.png)                   |
-| blue      | #5a6b7a | 90 107 122  | 208° 15% 42% | ![blue](https://revere.b-cdn.net/lauds/blue.png)                     |
-| cyan      | #64757d | 100 117 125 | 199° 11% 44% | ![cyan](https://revere.b-cdn.net/lauds/cyan.png)                     |
-| yellow    | #8b7e52 | 139 126 82  | 46° 26% 43%  | ![yellow](https://revere.b-cdn.net/lauds/yellow.png)                 |
-| teal      | #4d6b6b | 77 107 107  | 180° 16% 36% | ![teal](https://revere.b-cdn.net/lauds/teal.png)                     |
-| dark-cyan | #546470 | 84 100 112  | 206° 14% 38% | ![dark-cyan](https://revere.b-cdn.net/lauds/dark-cyan.png)           |
+| Palette   | Hex     | RGB         | HSL          | Colors                                                       |
+|-----------|---------|-------------|--------------|--------------------------------------------------------------|
+| bg        | #f0efeb | 240 239 235 | 48° 14% 93%  | ![Background](https://revere.b-cdn.net/lauds/bg.png)         |
+| bg-alt    | #e0dcd4 | 224 220 212 | 40° 16% 85%  | ![Background-alt](https://revere.b-cdn.net/lauds/bg-alt.png) |
+| base0     | #f5f4f2 | 245 244 242 | 40° 13% 95%  | ![base0](https://revere.b-cdn.net/lauds/base0.png)           |
+| base1     | #efeeed | 239 238 237 | 30° 5% 93%   | ![base1](https://revere.b-cdn.net/lauds/base1.png)           |
+| base2     | #e5e3e0 | 229 227 224 | 36° 8% 89%   | ![base2](https://revere.b-cdn.net/lauds/base2.png)           |
+| base3     | #d8d6d3 | 216 214 211 | 36° 6% 84%   | ![base3](https://revere.b-cdn.net/lauds/base3.png)           |
+| base4     | #b8b5b0 | 184 181 176 | 37° 5% 71%   | ![base4](https://revere.b-cdn.net/lauds/base4.png)           |
+| base5     | #9a9791 | 154 151 145 | 40° 4% 59%   | ![base5](https://revere.b-cdn.net/lauds/base5.png)           |
+| base6     | #7d7a75 | 125 122 117 | 37° 3% 47%   | ![base6](https://revere.b-cdn.net/lauds/base6.png)           |
+| base7     | #5f5c58 | 95 92 88    | 34° 4% 36%   | ![base7](https://revere.b-cdn.net/lauds/base7.png)           |
+| base8     | #2d2a27 | 45 42 39    | 30° 7% 16%   | ![base8](https://revere.b-cdn.net/lauds/base8.png)           |
+| fg        | #1a1d21 | 26 29 33    | 214° 12% 12% | ![fg](https://revere.b-cdn.net/lauds/fg.png)                 |
+| fg-alt    | #4a4d51 | 74 77 81    | 214° 5% 30%  | ![fg-alt](https://revere.b-cdn.net/lauds/fg-alt.png)         |
+| red       | #8b6666 | 139 102 102 | 0° 15% 47%   | ![red](https://revere.b-cdn.net/lauds/red.png)               |
+| orange    | #7a6d5a | 122 109 90  | 36° 15% 42%  | ![orange](https://revere.b-cdn.net/lauds/orange.png)         |
+| green     | #5a6b5a | 90 107 90   | 120° 9% 39%  | ![green](https://revere.b-cdn.net/lauds/green.png)           |
+| blue      | #5a6b7a | 90 107 122  | 208° 15% 42% | ![blue](https://revere.b-cdn.net/lauds/blue.png)             |
+| cyan      | #64757d | 100 117 125 | 199° 11% 44% | ![cyan](https://revere.b-cdn.net/lauds/cyan.png)             |
+| yellow    | #8b7e52 | 139 126 82  | 46° 26% 43%  | ![yellow](https://revere.b-cdn.net/lauds/yellow.png)         |
+| teal      | #4d6b6b | 77 107 107  | 180° 16% 36% | ![teal](https://revere.b-cdn.net/lauds/teal.png)             |
+| dark-cyan | #546470 | 84 100 112  | 206° 14% 38% | ![dark-cyan](https://revere.b-cdn.net/lauds/dark-cyan.png)   |
     
 
 ## Finished Themes:

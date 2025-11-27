@@ -6,8 +6,8 @@
 
 These colorschemes embody this tradition in code. Monastic minimalism: colors as whispers of the same tone, suggestions rather than shouting at the user. Built for those who seek deep contemplation and focus in their computing environment. The colors fall into the background, accessible when you need them, but muted enough to ignore them.
 
-![Compline palate](https://revere.b-cdn.net/compline/2025-10-31-131317_grim.png)
-![Lauds palate](https://revere.b-cdn.net/compline/2025-11-04-191227_grim.png)
+![Compline palette](https://revere.b-cdn.net/compline/2025-10-31-131317_grim.png)
+![Lauds palette](https://revere.b-cdn.net/compline/2025-11-04-191227_grim.png)
 
 ## The Motivation
 For years, [Nord](https://www.nordtheme.com) was the default across my system.
@@ -15,7 +15,7 @@ Reliable, minimalst, clean; but the saturation irritated me.
 
 Thus this is a homage to Nord, Everforest, and various monotone colorschemes - building from that which I believe those themes got right and reducing saturation and working from one tone, stripping everything away that is not essential.
 
-## Palate:
+## Palette:
 ### Compline:
 | Palette   | Hex     | RGB         | HSL          | Colors                                                          |
 |-----------|---------|-------------|--------------|-----------------------------------------------------------------|

@@ -98,7 +98,8 @@
 "constant.numeric.integer" = { fg = "red" }                                         # constant integer value.
 "constant.numeric.float" = { fg = "red" }                                           # constant float value.
 
-"string" = { fg = "green" }                                                                                                                                                            #     S  t   r   i   n      a lrinegex = { fg = "gr" }                                                  # Regular expression literal.
+"string" = { fg = "green" }                                                         # String literal.
+"string.regexp" = { fg = "green" }                                                  # Regular expression literal.
 "string.special" = { fg = "green" }                                                 # Strings containing a path, URL, etc.
 "string.special.path" = { fg = "green" }                                            # String containing a file path.
 "string.special.url" = { fg = "green" }                                             # String containing a web URL.

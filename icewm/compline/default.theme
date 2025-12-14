@@ -93,6 +93,9 @@ ColorToolTipText="rgb:cc/c4/b4"
 ColorLabel="rgb:1a/1d/21"
 ColorLabelText="rgb:cc/c4/b4"
 
+ColorMoveSizeStatus:"rgb:1a/1d/21"
+ColorMoveSizeStatisText:"rgb:cc/c4/b4"
+
 ColorInput="rgb:1a/1d/21"
 ColorInputText="rgb:cc/c4/b4"
 ColorInputSelection="rgb:3d/42/4a"

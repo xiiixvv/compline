@@ -82,14 +82,12 @@ Thus this is a homage to Nord, Everforest, and various monotone colorschemes - b
   - GTK/QT
   - Thunar
 - [SwayNC](https://github.com/jblais493/compline/tree/main/swaync) 
+- [Termux](https://github.com/jblais493/compline/tree/main/termux)
 - [Thunderbird](https://github.com/jblais493/compline/tree/main/thunderbird) 
 - [VSCode](https://github.com/jblais493/compline/tree/main/vscode)
 - [Waybar](https://github.com/jblais493/compline/tree/main/waybar) 
 - [Zathura](https://github.com/jblais493/compline/tree/main/zathura) 
 - [Zed](https://github.com/jblais493/compline/tree/main/zed)
-
-## Roadmap to finish 
-    - Termux (nix-on-droid)
 
 ## Special thanks:
 - [Matthew-K310](https://github.com/Matthew-K310) - for nvim port

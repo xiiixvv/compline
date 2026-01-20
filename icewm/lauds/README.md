@@ -1,6 +1,6 @@
-# compline-ice
+# lauds-ice
 
-A port of Compline for IceWM
+A port of Lauds for IceWM
 
 ## Installation
 ```git clone https://github.com/joshuablais/compline.git```
